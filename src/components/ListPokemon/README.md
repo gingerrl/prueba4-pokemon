@@ -1,0 +1,1 @@
+mostrar listado de pokemon
