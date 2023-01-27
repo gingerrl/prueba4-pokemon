@@ -1,0 +1,27 @@
+.container{
+    padding: 20px;
+}
+.title{
+    display: flex;
+    width: 100%;
+}
+.itemSearch{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.itemList{
+    display: flex;
+    width: 100%;
+}
+.itemPokemon{
+    width: 100%;
+    display: flex;
+}
+.primaryButton{
+    border: none;
+    padding: 7px;
+    color: var(--primaryText);
+    background-color: var(--primary);
+}
